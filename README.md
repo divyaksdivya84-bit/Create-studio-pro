@@ -6,19 +6,20 @@ Creator Studio Pro is a video editing web application built using Python, Stream
 
 ## Features
 
-- Auto Caption Generation (.SRT subtitles)
-- Video Trimming
-- Audio Replacement
-- Watermarking
-- Video Encoding
-- Video Processing Automation
+- Full Screen Watermark
+- Custom Text Branding
+- Add Intro Video
+- Replace Video Audio
+- Trim Video
+- Adjust Video Volume
+- Insert Advertisements
+- Auto Captions
 
 ## Tech Stack
 
-- Python
-- Streamlit
-- OpenCV
-- FFmpeg
+- Python, Streamlit
+- OpenCV, FFmpeg
+- Whisper AI for subtitles
 
 ## Achievements
 
